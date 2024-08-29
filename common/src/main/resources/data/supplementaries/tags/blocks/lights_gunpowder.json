@@ -5,5 +5,11 @@
     "minecraft:magma_block",
     "minecraft:lava",
     "supplementaries:lumisene"
+    {"id":"botania:blaze_block","required":false},
+    {"id":"create:blaze_burner","required":false},
+    {"id":"malum:block_of_blazing_quartz","required":false},
+    {"id":"create:lit_blaze_burner","required":false},
+    {"id":"spectrum:blazing_crystal","required":false},
+    {"id":"spectrum:wet_lava_sponge","required":false},
   ]
 }
