@@ -25,6 +25,8 @@
      {"id":"candlelight:glass","required":false},
      {"id":"candlelight:wine_glass","required":false},
      {"id":"herbalbrews:jug","required":false},
+     {"id":"herbalbrews:hibiscus_tea_block","required":false},
+     {"id":"herbalbrews:milk_coffee_block","required":false},
      {"id":"nethervinery:netherite_nectar","required":false},
      {"id":"nethervinery:blazewine_pinot","required":false},
      {"id":"nethervinery:nether_fizz","required":false},
